@@ -2,7 +2,7 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="c2cf92ce-e71a-4b96-8844-811c4fe08480" name="Apache" url="http://localhost:8080/testphpStorm">
+      <webServer id="c2cf92ce-e71a-4b96-8844-811c4fe08480" name="Apache" url="http://localhost:8080/learnPhp">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
